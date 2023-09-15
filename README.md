@@ -1,5 +1,5 @@
 Ismael Kallab 👨‍💻
-📧 Contact: ismmcof84@gmail.com | ☎️ +966-568-400214 | LinkedIn
+📧 Contact: ismmcof84@gmail.com 
 
 Skills 🚀
 💻 RHCSA (Linux): Certified Red Hat System Administrator.
