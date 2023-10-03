@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Terraform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IsmailKallab](https://github.com/IsmailKallab)
-
 - 💬 Ask me about **AWS DevOps**
 
 - 📫 How to reach me **ismmcof84@gmail.com**
