@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Using Terraform to Deploy an AWS VPC with high availability EC2 workload load balanced using an AWS ALB all with the required security groups, health checks, target groups, and user data (Terraform, S3, AWS VPC, EC2, Security Groups, NACLs, ALB, NAT Gateway)**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **CI/CD Using Jenkins and GitHub Action**
 
 - 💬 Ask me about **AWS DevOps**
 
 - 📫 How to reach me **ismmcof84@gmail.com**
 
-- 📄 Know about my experiences [Experienced AWS Cloud and DevOps Engineer at DolfinED | AWS DevOps Maestro | Kubernetes Choreographer | Linux Aficionado | Certified AWS Solution Architect | Terraform](Experienced AWS Cloud and DevOps Engineer at DolfinED | AWS DevOps Maestro | Kubernetes Choreographer | Linux Aficionado | Certified AWS Solution Architect | Terraform)
+- 📄 Know about my experiences [Experienced AWS Cloud and DevOps Engineer at DolfinED | AWS DevOps Maestro | Kubernetes Choreographer | Linux Aficionado | Certified AWS Solution Architect | Terraform](Experienced AWS Cloud and DevOps Engineer at DolfinED | AWS DevOps Maestro | Kubernetes Choreographer | Linux Aficionado | Certified AWS Solution Architect | Terraform | Jenkins | GitHub Action | CI/CD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
