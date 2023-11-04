@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailkallab&label=Profile%20views&color=0e75b6&style=flat" alt="ismailkallab" /> </p>
 
-- 🔭 I’m currently working on **Using Terraform to Deploy an AWS VPC with high availability EC2 workload load balanced using an AWS ALB all with the required security groups, health checks, target groups, and user data (Terraform, S3, AWS VPC, EC2, Security Groups, NACLs, ALB, NAT Gateway)**
+- 🔭 I’m currently working on **Creating a Jenkins Continuous Integration (CI) Pipeline To Trigger Automatically on GitHub Pull Requests**
 
 - 🌱 I’m currently learning **CI/CD Using Jenkins and GitHub Action**
 
