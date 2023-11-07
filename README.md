@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail Kallab</h1>
 <h3 align="center">A passionate AWS DevOps Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailkallab" alt="ismailkallab" /> </p>
+
 
 
 
