@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Creating a Jenkins Continuous Integration (CI) Pipeline To Trigger Automatically on GitHub Pull Requests**
+- 🔭 I’m currently working on **Creating A CI/CD Workflow Using GitHub Action To Deploy A Java App On AWS EKS**
 
 - 🌱 I’m currently learning **CI/CD Using Jenkins and GitHub Action**
 
