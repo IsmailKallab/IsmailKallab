@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Creating A CI/CD Workflow Using GitHub Action To Deploy A Java App On AWS EKS**
+- 🔭 I’m currently working on **ANSIBLE**
 
-- 🌱 I’m currently learning **CI/CD Using Jenkins and GitHub Action**
+- 🌱 I’m currently learning **ANSIBLE**
 
 - 💬 Ask me about **AWS DevOps**
 
