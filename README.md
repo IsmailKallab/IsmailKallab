@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **ANSIBLE**
+- 🔭 I’m currently working on **Machine Learning Regression Models**
 
-- 🌱 I’m currently learning **ANSIBLE**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **AWS DevOps**
 
