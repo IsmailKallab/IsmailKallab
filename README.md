@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Machine Learning Regression Models**
+- 🔭 I’m currently working on **DevOps CI/CD with Jenkins, Maven and SonarCube ...etc **
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **DevOps CI/CD in Depth**
 
 - 💬 Ask me about **AWS DevOps**
 
