@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **DevOps CI/CD with Jenkins, Maven and SonarCube ...etc **
+- 🔭 I’m currently working on **DevSecOps CI/CD with Jenkins, Maven and SonarCube ...etc **
 
-- 🌱 I’m currently learning **DevOps CI/CD in Depth**
+
 
 - 💬 Ask me about **AWS DevOps**
 
