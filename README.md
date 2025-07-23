@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **DevSecOps CI/CD with Jenkins, Maven and SonarCube ...etc **
+- 🔭 I’m currently working on **3-Tier DevSecOps Project **
 
 
 
